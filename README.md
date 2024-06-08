@@ -1,0 +1,1 @@
+Toggle with /autoharp
